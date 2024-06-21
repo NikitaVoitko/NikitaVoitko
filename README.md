@@ -8,7 +8,7 @@ Hi there! I’m Nikita, a Data Engineer with a passion for developing and ensuri
 
 * 🌍  I'm based in Munich
 * ✉️  You can contact me at [https://www.linkedin.com/in/nikita-voitko-865297108/](mailto:https://www.linkedin.com/in/nikita-voitko-865297108/)
-* 🚀  I'm currently working at [Data Insights](http://https://datainsights.de/de/)
+* 🚀  I'm currently working at [Data Insights]([http://https://datainsights.de/de/](https://datainsights.de/de/))
 
 
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmw0c3h3a3V3djRjdnNtOG5wcDRqMnRkZmwyMG1jbWtjc2xwbWRzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp)
