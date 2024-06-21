@@ -21,3 +21,5 @@ Hi there! I’m Nikita, a Data Engineer with a passion for developing and ensuri
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/NikitaVoitko" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmw0c3h3a3V3djRjdnNtOG5wcDRqMnRkZmwyMG1jbWtjc2xwbWRzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp)
