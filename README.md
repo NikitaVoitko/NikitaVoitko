@@ -1,7 +1,7 @@
-Hello everyone![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)💎
+Hello everyone![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
-Data Engineer
+Data Engineer💎
 -------------
 
 Hi there! I’m Nikita, a Data Engineer with a passion for developing and ensuring the quality of data applications and system integrations. With a diverse background in digital intelligence across various industries, I thrive on leveraging cutting-edge technologies to drive data-driven insights and efficiencies. Feel free to reach out!
