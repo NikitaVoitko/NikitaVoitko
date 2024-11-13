@@ -1,10 +1,10 @@
 Hello everyone![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
-Data Engineer 💎
+Software Developer 💎
 -------------
 
-Hi there! I’m Nikita, a Data Engineer with a passion for developing and ensuring the quality of data applications, system integrations and backend development currently based in Munich, Germany. With a diverse background in digital intelligence across various industries, I thrive on leveraging cutting-edge technologies to drive data-driven insights and efficiencies. Always learning new stuff and working on self-improvement. Feel free to reach out! 🐱
+Hi there! I’m Nikita, a Software Developer with a passion for developing and ensuring the quality of data applications, system integrations and backend development currently based in Munich, Germany. With a diverse background in digital intelligence across various industries, I thrive on leveraging cutting-edge technologies to drive data-driven insights and efficiencies. Always learning new stuff and working on self-improvement. Feel free to reach out! 🐱
 
 * 🌍  I'm based in Munich
 * ✉️  You can contact me at [https://www.linkedin.com/in/nikita-voitko-865297108/](mailto:https://www.linkedin.com/in/nikita-voitko-865297108/)
