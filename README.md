@@ -1,7 +1,7 @@
 Hello everyone![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
-Software Developer 💎
+Team Lead 💎
 -------------
 
 Hi there! I’m Nikita, a highly skilled and experienced Team Lead in Data aphere with a passion for product growth and ensuring the quality of data applications, system integrations and backend development. With a diverse background in digital intelligence across various industries, I thrive on leveraging cutting-edge technologies to drive data-driven insights and efficiencies. Always learning new stuff and working on self-improvement. Feel free to reach out! 🐱
