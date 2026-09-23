@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=E8613A&center=true&vCenter=true&width=620&lines=Nikita+Voitko;Team+Lead+%7C+Data+%26+AdTech;Big+Data+%C2%B7+ML+Segmentation+%C2%B7+Programmatic" alt="Nikita Voitko" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=E8613A&center=true&vCenter=true&width=620&lines=Nikita+Voitko;Team+Lead+%7C+Data+%26+AdTech" alt="Nikita Voitko" />
 </h1>
 
 <p align="center">
