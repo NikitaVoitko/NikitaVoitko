@@ -77,8 +77,9 @@ side quest   Built a full programmatic DSP solo, end to end
 ---
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=NikitaVoitko&show_icons=true&hide_border=true&bg_color=00000000&title_color=E8613A&icon_color=5B8DEF&text_color=8B95B0" alt="stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaVoitko&layout=compact&hide_border=true&bg_color=00000000&title_color=E8613A&text_color=8B95B0" alt="top langs" />
+  <img src="https://img.shields.io/badge/Focus-Data_Platforms_%26_AdTech-E8613A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Leading-4_engineering_streams-5B8DEF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scale-90M%2B_profiles-2EA043?style=flat-square" />
 </p>
 
 ---
