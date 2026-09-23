@@ -1,26 +1,89 @@
-Hello everyone![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-=====================================================================================================================================
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=E8613A&center=true&vCenter=true&width=620&lines=Nikita+Voitko;Team+Lead+%7C+Data+%26+AdTech;Big+Data+%C2%B7+ML+Segmentation+%C2%B7+Programmatic" alt="Nikita Voitko" />
+</h1>
 
-Team Lead 💎
--------------
-
-Hi there! I’m Nikita, a highly skilled and experienced Team Lead in Data sphere with a passion for product growth and ensuring the quality of data applications, system integrations and backend development. With a diverse background in digital intelligence across various industries, I thrive on leveraging cutting-edge technologies to drive data-driven insights and efficiencies. Always learning new stuff and working on self-improvement. Feel free to reach out! 🐱
-
-* ✉️  You can contact me at [https://www.linkedin.com/in/nikita-voitko-865297108/](mailto:https://www.linkedin.com/in/nikita-voitko-865297108/)
-* 🚀  I'm currently working at [VTB](https://www.vtb.ru/)
-
-
-![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmw0c3h3a3V3djRjdnNtOG5wcDRqMnRkZmwyMG1jbWtjc2xwbWRzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp)
-
-### Skills
-
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikita-voitko-865297108/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/NikitaVoitko"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://getmentor.dev/mentor/nikita-voytko-7484"><img src="https://img.shields.io/badge/Mentoring-E8613A?style=for-the-badge&logo=rocket&logoColor=white" alt="Mentoring" /></a>
+  <img src="https://komarev.com/ghpvc/?username=NikitaVoitko&style=for-the-badge&color=6E7B8B&label=PROFILE+VIEWS" alt="views" />
 </p>
 
+---
 
-### Socials
+### `whoami`
 
-<p align="left"> <a href="https://www.github.com/NikitaVoitko" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+```yaml
+name:      Nikita Voitko
+role:      Development Team Lead @ Platforma (VTB x Rostelecom Big Data JV)
+based_in:  Moscow, RU
+focus:     turning 90M+ user profiles into revenue-grade advertising products
+years:     8.5 in data engineering, analytics and engineering leadership
+languages: [Russian (native), English (C2), German (B2)]
+```
 
+I lead four engineering streams at once and keep them pointed at the same outcome: data that actually sells.
+Not dashboards about data, not decks about AI. Segments that lift CTR, pipelines that survive Monday morning,
+and models that make it to production instead of to a notebook graveyard.
+
+---
+
+### What I run
+
+| Stream | What it means in practice |
+| :--- | :--- |
+| **ML Segmentation** | Deep clustering over interest vectors (VAE + DEC), lookalike and predictive audiences, lift-driven segment assembly |
+| **Data Platform & Engineering** | Distributed pipelines on Spark, identity graph and profile storefronts, serving layer for ad targeting |
+| **Analytics & BI** | Campaign measurement, brand/sales lift, KPI frameworks that survive a client audit |
+| **AdServing Infrastructure** | RTB, SSP integrations, segment delivery formats, identifier matching, latency budgets that are actually enforced |
+
+---
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,spark,postgres,clickhouse,docker,kubernetes,linux,git,gitlab,fastapi,flask&theme=dark" alt="stack" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,dart,swift,js,ts,react,bash,vim,grafana,kafka,aws&theme=dark" alt="stack" />
+</p>
+
+**Data** Spark / PySpark · Airflow · Kafka · Hadoop · Greenplum · ClickHouse · PostgreSQL · Oracle
+**ML** PyTorch · distributed training · autoencoders & deep clustering · uplift and propensity models
+**AdTech** RTB · DSP / SSP · DMP · Stable ID · frequency & reach modelling · brand and sales lift
+**Ship it** Docker · Kubernetes · CI/CD · Grafana · a healthy fear of unmonitored cron jobs
+
+---
+
+### Track record
+
+```text
+2022 → now   Platforma (VTB x Rostelecom)   Development Team Lead, 4 streams
+2019 → 2022  Synvert Data Insights, Germany Data Engineer / Consultant
+                                            BMW · Bosch · Kaufland · Lidl
+2018 → 2019  Flocktory                      MarTech, real-time personalisation
+2017 → 2018  LafargeHolcim                  Analytics & reporting
+side quest   Built a full programmatic DSP solo, end to end
+```
+
+---
+
+### Off the clock
+
+- **Mentoring** developers, data scientists, analysts and team leads on [GetMentor](https://getmentor.dev/mentor/nikita-voytko-7484) and Solvery. Career moves, data architecture, and the part nobody teaches: leading people without becoming a ticket router.
+- **Mobile side projects** in Flutter / Firebase, shipped to real users rather than to a portfolio folder.
+- Occasionally writing about adtech internals, because the field is criminally under-documented.
+
+---
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=NikitaVoitko&show_icons=true&hide_border=true&bg_color=00000000&title_color=E8613A&icon_color=5B8DEF&text_color=8B95B0" alt="stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaVoitko&layout=compact&hide_border=true&bg_color=00000000&title_color=E8613A&text_color=8B95B0" alt="top langs" />
+</p>
+
+---
+
+<p align="center">
+  <i>Open to conversations about data platforms, adtech, ML in production and engineering leadership.</i><br/>
+  <a href="https://www.linkedin.com/in/nikita-voitko-865297108/"><b>Reach out on LinkedIn →</b></a>
+</p>
